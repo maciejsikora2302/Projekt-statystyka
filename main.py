@@ -43,6 +43,13 @@ sns.set(style="whitegrid")
 ax = sns.violinplot(x=df["Adult Mortality"])
 
 
+# In[22]:
+
+
+sns.set(style = "whitegrid")
+ax = sns.violinplot(x = df["infant deaths"])
+
+
 # In[ ]:
 
 
